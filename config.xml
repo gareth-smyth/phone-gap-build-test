@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<widget xmlns="http://www.w3.org/ns/widgets" id="com.gareth.smyth.phone-gap-build-test" version="0.0.1">
+
+    <name>Hello World</name>
+
+    <description>
+        Hello World
+    </description>
+
+    <author>
+        gareth-smyth
+    </author>
+</widget>
